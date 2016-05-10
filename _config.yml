@@ -1,0 +1,28 @@
+name: ResonantPan
+favicon: null
+layout_spectrum: 0.48609730903990567
+typography_spectrum: 0.36881038802675903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6866489718668163
+  lightness: 0.31997549207881093
+  saturation: 0.09561473364010453
+  rhythmicContrast: 0.9646895569749177
+purpose: []
